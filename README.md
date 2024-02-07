@@ -1,5 +1,5 @@
-# Project Name
-> Melanoma is a type of skin cancer and it's a deadly disease, which effects the human skin. 
+# Malenoma Skin Cancer
+> Malenoma is a type of skin cancer and it's a deadly disease, which effects the human skin. 
 
 
 ## Table of Contents
